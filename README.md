@@ -14,3 +14,9 @@ Nesta atividade prática de **Git** criamos seguimos um passo a passo solicitado
 
 ## Atividade prática de Atualização
 1. Git pull para Puxar as atualizaçÕes 
+
+2. Confira o Histórico
+
+3. Identificar o novo no commit
+
+4. Confira o arquivo alterado
