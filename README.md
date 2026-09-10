@@ -4,12 +4,12 @@
 
 Nesta atividade prática de **Git** criamos seguimos um passo a passo solicitado pelo Professor:
 
-|- A atividade deve ser feita via terminal:
-\_ 1. Criar pasta
+|-- A atividade deve ser feita via terminal:
+\ 1. Criar pasta
 
-\_ 2. Criar arquivo HTML
+\ 2. Criar arquivo HTML
 
-\_ 3. Verificar Status do Repositório
+\ 3. Verificar Status do Repositório
 
 
 ## Atividade prática de Atualização
